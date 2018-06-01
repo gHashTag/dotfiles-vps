@@ -1,0 +1,12 @@
+[user]
+    name = playra
+    email = raoffonom@icloud.com
+[merge]
+    opendiff  
+    tool = opendiff
+[core]
+    excludesfile = /Users/xyz/.gitignore_global
+[color]
+    ui = true
+[push]
+	default = matching
