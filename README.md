@@ -28,7 +28,8 @@ ln -s ./dotfiles/.flowconfig .flowconfig
 ln -s ./dotfiles/libdefs.js libdefs.js
 ```
 Ставим Oh My ZSH!
-```sudo apt-get install zsh
+```
+sudo apt-get install zsh
 curl -L http://install.ohmyz.sh | sh
 ```
 
