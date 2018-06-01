@@ -51,3 +51,8 @@ let &packpath = &runtimepath
 source ~/.nvimrc
 ```
 
+Ставим Docker
+https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-using-the-repository
+
+Ставим Docker-compose
+https://docs.docker.com/compose/install/#install-compose
