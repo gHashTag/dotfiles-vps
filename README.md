@@ -11,7 +11,7 @@
 ```ssh-copy-id playra@ЗДЕСЬ ВСТАВЛЯЕМ IP VPS```
 
 Копируем этот поект
-```git clone https://github.com/gHashTag/dotfiles-vps.gi```
+```git clone https://github.com/gHashTag/dotfiles-vps.git dotfiles```
 
 Линкуем файлы ~/
 ```
