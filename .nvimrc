@@ -162,7 +162,7 @@ set shiftround                  "Round indent to nearest shiftwidth multiple
 map <C-n> :NERDTreeToggle <CR> 
 map <Leader> <Plug>(easymotion-prefix)
 map  <Leader>w <Plug>(easymotion-bd-w)
-:imap jj <Esc>
+:imap jk <Esc>
 :imap оо <Esc> 
 nmap <C-\> :TagbarToggle<CR>
 set pastetoggle=<C-j>
